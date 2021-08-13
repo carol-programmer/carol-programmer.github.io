@@ -1,10 +1,13 @@
 *  {
 	box-sizing:border-box;
 }
+
  body{
 	font-family:Arial, Helvetica, sans-serif;
 	margin:0;
+	background: #4e86a3;
  }
+
 header{
 	background-color:#5d9ebf;
  }
@@ -123,3 +126,5 @@ header div h3 {
 #phoneicon {
 	animation: animate-phoneicon 1s infinite;
 }
+
+
